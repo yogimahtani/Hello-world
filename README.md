@@ -1,2 +1,14 @@
 # Hello-world
-Just testing Git out
+Just testing Git out . 
+###**i am learning how to code** . 
+
+*im testing italic text* 
+
+---
+
+API ENDPOINTS . 
+http://google.com/user . 
+
+Testing Server  
+http://auluxa.com
+
