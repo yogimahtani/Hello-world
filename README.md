@@ -7,8 +7,13 @@ Just testing Git out .
 ---
 
 API ENDPOINTS . 
+
 http://google.com/user . 
 
 Testing Server  
 http://auluxa.com
+
+
+https://guides.github.com/features/mastering-markdown/
+
 
