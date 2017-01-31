@@ -4,6 +4,11 @@ Just testing Git out .
 
 *im testing italic text* 
 
-A [link](http://google.com).
-A [link](http://auluxa.com)
+---
+
+API ENDPOINTS . 
+http://google.com/user . 
+
+Testing Server  
+http://auluxa.com
 
